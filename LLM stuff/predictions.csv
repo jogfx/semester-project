@@ -1,0 +1,100 @@
+true_sentiment,predicted_sentiment,true_bias,predicted_bias,true_political_leaning,predicted_political_leaning
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Centrist
+Neutral,Neutral,Minimal Bias,Minimal Bias,Left leaning,Not Applicable
+Positive,Neutral,Moderate Bias,Minimal Bias,Left leaning,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Positive,Positive,Minimal Bias,Minimal Bias,Centrist,Centrist
+Negative,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Negative,Minimal Bias,Moderate Bias,Right leaning,Right leaning
+Neutral,Negative,Minimal Bias,Moderate Bias,Centrist,Left leaning
+Neutral,Neutral,Not Applicable,Minimal Bias,Not Applicable,Not Applicable
+Negative,Negative,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Negative,Negative,Minimal Bias,Moderate Bias,Centrist,Centrist
+Negative,Neutral,Minimal Bias,Minimal Bias,Right leaning,Not Applicable
+Negative,Neutral,Moderate Bias,Minimal Bias,Left leaning,Centrist
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Negative,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Not Applicable,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Moderate Bias,Moderate Bias,Left leaning,Left leaning
+Neutral,Neutral,Minimal Bias,Minimal Bias,Right leaning,Right leaning
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Positive,Positive,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Centrist
+Negative,Neutral,Minimal Bias,Minimal Bias,Centrist,Centrist
+Neutral,Positive,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Negative,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Centrist,Left leaning
+Neutral,Neutral,Moderate Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Centrist,Centrist
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Centrist
+Neutral,Neutral,Moderate Bias,Minimal Bias,Left leaning,Right leaning
+Negative,Negative,Moderate Bias,Moderate Bias,Left leaning,Left leaning
+Neutral,Negative,Minimal Bias,Moderate Bias,Centrist,Left leaning
+Negative,Negative,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Positive,Minimal Bias,Not Applicable,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Positive,Positive,Minimal Bias,Minimal Bias,Centrist,Centrist
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Negative,Positive,Minimal Bias,Moderate Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Centrist
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Negative,Negative,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Negative,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Not Applicable,Not Applicable,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Centrist,Left leaning
+Neutral,Positive,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Not Applicable,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Centrist
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Centrist
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Centrist
+Neutral,Positive,Minimal Bias,Not Applicable,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Negative,Negative,Minimal Bias,Moderate Bias,Centrist,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Centrist,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Negative,Negative,Minimal Bias,Moderate Bias,Centrist,Not Applicable
+Neutral,Neutral,Minimal Bias,Not Applicable,Not Applicable,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Moderate Bias,Minimal Bias,Right leaning,Not Applicable
+Neutral,Positive,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable
+Neutral,Neutral,Minimal Bias,Minimal Bias,Not Applicable,Not Applicable

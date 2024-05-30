@@ -1,0 +1,5 @@
+Metric,Sentiment, Bias Analysis,Political Leaning Analysis
+Accuracy,0.93,0.92,0.94
+Precision,0.94,0.88,0.91
+Recall,0.93,0.9,0.93
+F1-Score,0.93,0.89,0.92
