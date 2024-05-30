@@ -1,4 +1,4 @@
-# %%
+#%%
 import requests
 import re
 import pandas as pd
@@ -580,9 +580,9 @@ class ArticleRetriever:
 # %%
 def preprocess_data(data, article_retriever):
     df = pd.DataFrame(data)
+    df = df[['source', 'title', 'description', 'url', 'urlToImage', 'publishedAt', 'content']]
     # Filter out articles marked as '[Removed]'
     df = df[df['title'] != '[Removed]']
-    df = df[['source', 'title', 'description', 'url', 'urlToImage', 'publishedAt', 'content']]
     df = df.rename(columns={'source': 'Name'})
     df.insert(0, 'ID', range(1, 1 + len(df)))
     df['Content'] = df.apply(lambda row: article_retriever.preprocess(row['Name']['name'], row['url']) if row['content'] is None else row['content'], axis=1)
@@ -632,5 +632,4 @@ for title, published_at, name, content, url, url_to_image, id_ in zip(preprocess
 # Commit the transaction
 session.commit()
 
-
-
+# %%

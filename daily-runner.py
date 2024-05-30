@@ -1,15 +1,18 @@
-import schedule
-import time
+from apscheduler.schedulers.blocking import BlockingScheduler
 import subprocess
 
 def job():
-    # Put your code here that you want to run every 24 hours
-    # For example, you can run another Python script
-    subprocess.run(["python", "daily-news-sql.py"])
+    subprocess.run(["python", "/work/MLops/daily-news-sql.py"])
 
-# Schedule the job to run every 24 hours
-schedule.every(24).hours.do(job)
+# Create a scheduler
+scheduler = BlockingScheduler()
 
-while True:
-    schedule.run_pending()
-    time.sleep(1)
+# Schedule the job to run every 24 hours at midnight
+scheduler.add_job(job, 'cron', hour=0)
+
+try:
+    # Start the scheduler
+    scheduler.start()
+except KeyboardInterrupt:
+    # Stop the scheduler if interrupted
+    scheduler.shutdown()
